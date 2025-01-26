@@ -7,7 +7,8 @@ module.exports = {
         "Raleway" : ["Raleway", "serif"]
       },
       colors : {
-        "backgroundflyo" : "hsl(218, 28%, 13%)"
+        "backgroundflyo" : "hsl(218, 28%, 13%)" ,
+        "underlineColor" : "hsl(176, 68%, 64%)"
       }
     },
   },
